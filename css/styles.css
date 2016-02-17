@@ -19,33 +19,33 @@ p {
 }
 
 header {
-    background-color:#e8cfc3;
+    background-color:#f5e7e1;
     height:200px;
 }
 main {
-    background-color:#e8cfc3;
+    background-color:#f5e7e1;
     height:600px;
     width:90%;
     margin:20px auto;
 }
 
 footer {
-    background-color:#e8cfc3;
+    background-color:#000000;
     height:150px;
     text-align:center;
+    color:#ffffff;
     padding:40px;
 }
 
 /* ================ BUTTON STYLES ============== */
 
 .button {
-    background-color:#C48189;
+    background-color:#000000;
     padding:20px 15px; 
     border-radius:15px;
     color:#ffffff;
     text-decoration:none;
 }
-
 .button:hover {
     background-color:#AF7F7D;
 }
